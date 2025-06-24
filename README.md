@@ -198,19 +198,28 @@ Since females show a slightly higher incidence of chronic diseases, it is advisa
 
 Actionable Insights:
 Enhanced Chest Pain Protocol: Given the striking correlation, healthcare systems should review and potentially strengthen protocols for investigating chest pain, especially when presented by individuals with other risk factors or symptoms associated with lung cancer.
-Targeted Alcohol Awareness: Public health campaigns targeting lung cancer prevention should consider including messaging on the observed association between alcohol consumption and lung cancer status, particularly for male demographics given their higher consumption rates in this survey.
+
+Targeted Alcohol Awareness: Public health campaigns targeting lung cancer prevention should consider including messaging on the observed association between alcohol consumption and lung cancer status, particularly for male demographics, given their higher consumption rates in this survey.
+
 Symptom Screening Integration: Promote awareness of symptoms like persistent coughing and yellow fingers as general health indicators that warrant medical consultation, even if not immediately indicative of lung cancer. These symptoms are highly prevalent in the surveyed group.
+
 Gender-Specific Health Education: Develop gender-specific health education programs that address the observed differences in alcohol consumption and chronic disease prevalence.
+
 Optimizations or Business Decisions (for Public Health):
 Resource Allocation: Allocate resources for lung cancer screening and awareness programs based on identified high-risk demographics and associated factors (e.g., age groups with higher incidence, communities with higher smoking/alcohol rates).
+
 Patient Education Materials: Develop patient education materials that clearly outline symptoms (including less commonly known ones like yellow fingers) and risk factors (smoking, alcohol, chronic disease).
 Data Integration: Explore opportunities to integrate survey data with clinical records (with appropriate privacy safeguards) to validate self-reported information and build more robust predictive models.
+
 Unexpected Outcomes:
 The very strong numerical link between alcohol consumption and lung cancer status within this specific survey data (90.6% of alcohol consumers had lung cancer) is a notably high correlation and warrants further investigation. While alcohol is a known carcinogen, this specific strength in a survey context is significant and might reflect a particular cohort or interaction with other risk factors.
+
 The high prevalence of "yellow fingers" as a reported symptom, while less commonly emphasized than coughing or chest pain in general lung cancer awareness, is a prominent finding in this survey and suggests it merits attention as a potential indicator.
+
 10. Conclusion
 Key Learnings: This analysis of the lung cancer survey dashboard has provided critical insights into the characteristics and reported symptoms of individuals within the surveyed population, particularly highlighting strong associations with lung cancer status. We observed significant numbers of individuals reporting yellow fingers, coughing, and smoking habits. Crucially, a very strong correlation was identified between chest pain and lung cancer, as well as a compelling association between alcohol consumption and lung cancer status within this survey. Gender differences in alcohol consumption and chronic disease prevalence were also noted.
 Limitations: The primary limitations of this analysis stem from the nature of survey data itself, including potential self-reporting biases and the lack of detailed methodology on data collection and sample representativeness. The analysis relies on correlation rather than confirmed causation. The scope was limited to the variables present in the dashboard, preventing deeper dives into specific chronic disease types or more nuanced lifestyle factors.
+
 Future Research: Future research could expand upon these findings by:
 Conducting more in-depth statistical analyses (e.g., logistic regression) to quantify the predictive power of each symptom and risk factor for lung cancer.
 Exploring the specific types of chronic diseases and their interplay with lung cancer risk.
@@ -218,7 +227,8 @@ Investigating the causality of the strong alcohol-lung cancer association observ
 Collecting more comprehensive demographic data and detailed lifestyle information.
 Validating these survey findings with clinical trial data or larger epidemiological studies.
 Developing predictive models to identify individuals at high risk for lung cancer based on these and additional factors.
-11. References & Appendices
+
+12. References & Appendices
 References:
 "Survey Lung Cancer" Dataset 
 Microsoft Power BI (for data visualization and dashboard creation).
