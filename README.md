@@ -119,33 +119,13 @@ The visual “Sum of ALCOHOL CONSUMING by LUNG_CANCER” shows that a vast major
 4. Prevalence of Chronic Disease
 A large proportion of the survey population (465 individuals) has a chronic disease, suggesting a potentially high-risk population for other complications like lung cancer.
 
-5.Gender Disparity in Chronic Diseases
+5. Gender Disparity in Chronic Diseases
 The area chart “Sum of CHRONIC DISEASE by GENDER” indicates that females have slightly more chronic disease cases than males, which could warrant further investigation into gender-based health disparities.
 
 6. Coughing
 Individuals diagnosed with lung cancer reports a significantly high rate in relation to coughing.
 
 Comparison with Initial Findings: The initial insights regarding the high prevalence of yellow fingers, coughing, and smoking were confirmed by the dashboard's primary indicators. The pre-analysis hypothesis of a strong correlation between chest pain and lung cancer was validated and dramatically visualized. The observed high proportion of alcohol consumers among those with lung cancer was a particularly strong confirmation, elevating its importance from a potential correlation to a confirmed significant association within this dataset.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 8. Data Visualizations & Charts
 
@@ -244,4 +224,6 @@ References:
 Microsoft Power BI (for data visualization and dashboard creation).
 
 <img width="610" alt="lung cancer dasboard" src="https://github.com/user-attachments/assets/6eba7ff0-b444-4583-809f-4dfcb609b1a7" />
+
+
 
